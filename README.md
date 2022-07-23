@@ -1,2 +1,2 @@
 # Nvidia-Project
-Nvidia company industry mini project
+DEEP LEARNING INSTITUTE Mini Project
